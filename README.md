@@ -102,6 +102,7 @@ Want to know how I would learn ML in 2025 if I were starting from scratch? Hereâ
 
 - [How Iâ€™d Learn ML in 2025 (if I could start over) - YouTube](https://www.youtube.com/watch?v=ft4H25nqXYk)
 - Githubpage for this (https://sk15er.github.io/Meachine_learning-resourcces-/)
+- [bookpdf](https://1lib.sk/book/29361599/e2e47e/why-machines-learn-the-elegant-math-behind-modern-ai.html)
 
 ---
 
