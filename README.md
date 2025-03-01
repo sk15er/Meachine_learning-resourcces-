@@ -84,16 +84,14 @@ Here are some of the best courses that will help you gain a deep understanding o
 - [CS25: Transformers United V5](https://www.cs25.io/)
 - [Understanding Deep Learning (Book)](https://www.amazon.com/Understanding-Deep-Learning-Algorithms-Machine/dp/1633430270)
 - [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
-- [Udemy](https://www.udemy.com/course/machine-learning-vs-deep-learning-basics-to-applications/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_DSA_GammaCatchall_NonP_la.EN_cc.India&campaigntype=Search&portfolio=Bing-India&language=EN&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_1316117806681635_._ad__._kw_udemy_._de_c_._dm__._pl__._ti_dat-2334057027983529:loc-90_._li_158062_._pd__._&matchtype=b&msclkid=7bd325b952321f0acdde427b94ff2a87)
 
 These courses and platforms will help you build a solid foundation in both machine learning and deep learning.
 
 ### 📚 **Recommended Books**
 
 One highly recommended book is:
-#### not affiliate 
-- [**Why Machines Learn**](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
-- [Book2](https://www.amazon.in/WHY-MACHINES-LEARN-Anil-Ananthaswamy/dp/0593185749)
+
+- [**Why Machines Learn**](https://www.amazon.in/WHY-MACHINES-LEARN-Shivendra-Kumar/dp/9386551306)
 
 This book explains ML concepts in an easy-to-understand way and is a great starting point for beginners.
 
@@ -103,6 +101,7 @@ This book explains ML concepts in an easy-to-understand way and is a great start
 Want to know how I would learn ML in 2025 if I were starting from scratch? Here’s a helpful video to guide you through the process:
 
 - [How I’d Learn ML in 2025 (if I could start over) - YouTube](https://www.youtube.com/watch?v=ft4H25nqXYk)
+- Githubpage for this (https://sk15er.github.io/Meachine_learning-resourcces-/)
 
 ---
 
